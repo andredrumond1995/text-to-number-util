@@ -5,7 +5,7 @@
     "type": "git",
     "url": "https://github.com/andredrumond1995/text-to-number-util"
   },
-  "description": "The `text-to-number-util` library provides a simple function to map objects based on user-defined configurations.",
+  "description": "Utility to convert text-based numbers (pt-BR) into numeric values, with plans for future multi-language support.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "keywords": [
